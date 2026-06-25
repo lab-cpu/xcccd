@@ -1,0 +1,8 @@
+{
+  "name": "Loja Esportiva",
+  "description": "Uma loja de artigos esportivos premium com catálogo interativo, busca, filtros de categorias e simulação de carrinho de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
